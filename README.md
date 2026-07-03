@@ -9,7 +9,7 @@ I'm a Software Engineer with over 6 years of experience in building secure, scal
 
 My background spans from working on large-scale FinTech projects regulated by strict financial standards to engineering my own AI-powered SaaS product from the ground up. I'm passionate about modernizing legacy systems and leveraging AI tools to accelerate development cycles.
 
-### 🛠 Tech Stack
+### 🧩 Tech Stack
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
