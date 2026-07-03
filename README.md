@@ -20,7 +20,7 @@ My background spans from working on large-scale FinTech projects regulated by st
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omerfurkan-demir&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omerfurkandemir&theme=radical" />
 </p>
 
 ### 🔗 Connect With Me
