@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ömer Furkan DEMİR! 👋</h1>
 
-<!--
-**omerfurkandemir/omerfurkandemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Senior Android Developer | FinTech & AI SaaS Specialist</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+I am a Software Engineer with over 6 years of experience in building secure, scalable, and high-performance Android applications. I specialize in **Clean Architecture, MVVM, and Jetpack Compose**, focusing on delivering robust mobile solutions that withstand high-security audits.
+
+My background spans from working on large-scale FinTech projects regulated by strict financial standards to engineering my own AI-powered SaaS product from the ground up. I am passionate about modernizing legacy systems and leveraging AI tools to accelerate development cycles.
+
+### 🛠 Tech Stack
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-808080?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omerfurkan-demir&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+### 🔗 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/omer-furkan-demir/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:demirfurkanomer@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+<p align="center">
+  <i>"Building apps with AI-driven speed and engineering precision."</i>
+</p>
